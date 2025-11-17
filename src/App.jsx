@@ -7,7 +7,7 @@ function App() {
     <main className="">
       <Navbar />
       <CardsContainer />
-      <Parent />
+      {/* <Parent /> */}
     </main>
   );
 }
